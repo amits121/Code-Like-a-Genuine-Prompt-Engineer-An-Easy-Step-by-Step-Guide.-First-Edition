@@ -5,9 +5,8 @@
 
 📔 **This is the code repository for:** 
 An in-depth, step-by-step guide to coding like a genuine Prompt Engineer. Master the seamless integrati
-on of the LangChain Framework with Vector Database.
+on of the LangChain Framework with Vector Database. 📘 **First Edition** by **Amit Sarkar**
 
-📘 **First Edition** by **Amit Sarkar**
 ![Become Unstoppable (400 x 500 px)](https://github.com/ChatGPTHero/Code-Like-a-Genuine-Prompt-Engineer-An-Easy-Step-by-Step-Guide./assets/146596849/8dab14c1-ec2a-46c9-8ed8-38266d664c4b)
 ## 📘 **What is this book all about?**
 
