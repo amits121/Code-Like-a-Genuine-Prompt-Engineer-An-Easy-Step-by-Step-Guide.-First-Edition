@@ -4,10 +4,11 @@
 ![Become Unstoppable (400 x 500 px)](https://github.com/amits121/Code-Like-a-Genuine-Prompt-Engineer-An-Easy-Step-by-Step-Guide./assets/9373813/cbb395c1-47a7-4bf7-a8ac-4d022223b94c)
 
 📔 **This is the code repository for:** 
-An in-depth, step-by-step guide to coding like a genuine Prompt Engineer. Master the seamless integration of the LangChain Framework with Vector Database.
+An in-depth, step-by-step guide to coding like a genuine Prompt Engineer. Master the seamless integrati
+on of the LangChain Framework with Vector Database.
 
 📘 **First Edition** by **Amit Sarkar**
-
+![Become Unstoppable (400 x 500 px)](https://github.com/ChatGPTHero/Code-Like-a-Genuine-Prompt-Engineer-An-Easy-Step-by-Step-Guide./assets/146596849/8dab14c1-ec2a-46c9-8ed8-38266d664c4b)
 ## 📘 **What is this book all about?**
 
 **This book offers more than just knowledge; it holds the power to transform you.** As you delve into its pages, you'll unlock insights that propel you into the ranks of the world's top candidates. It's not merely about learning; it's about undergoing a profound evolution that sets you apart.
@@ -62,5 +63,7 @@ response = openai.Completion.create(
         #stop=["\n"]
     )
 print(response.choices[0].text.strip())
+
+
 ## 🛠️ **Software and Hardware List**
 For executing the code, you can either use **Google Colab** or install **Anaconda** to run the codes on Jupyter notebooks.
