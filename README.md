@@ -1,7 +1,9 @@
  🚀 **Become Unstoppable**
 ## 🛠️ *Code Like a Genuine Prompt Engineer*: An Easy Step-by-Step Guide.
 ### 🔗 Learn to Integrate the LangChain Framework with Vector Database.
-![Become Unstoppable (400 x 500 px)](https://github.com/ChatGPTHero/Code-Like-a-Genuine-Prompt-Engineer-An-Easy-Step-by-Step-Guide.-First-Edition/assets/146596849/f91a7dbf-15a0-49e9-abab-ca99d8a13d50)
+
+![Become Unstoppable (400 x 500 px)](https://github.com/ChatGPTHero/Code-Like-a-Genuine-Prompt-Engineer-An-Easy-Step-by-Step-Guide.-First-Edition/assets/146596849/4857947a-3cfd-4e1d-a107-6b95182aadb5)
+
 
   
 📔 **This is the code repository for the Book Become Unstoppable** 
