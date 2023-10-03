@@ -5,7 +5,8 @@
 
 
 
-  
+  ![Become Unstoppable (400 x 500 px)](https://github.com/ChatGPTHero/Code-Like-a-Genuine-Prompt-Engineer-An-Easy-Step-by-Step-Guide.-First-Edition/assets/146596849/776d17e5-63ef-4bca-a0b4-94fbb6dc4843)
+
 📔 **This is the code repository for the Book Become Unstoppable** 
 An easy step-by-step guide to coding like a genuine Prompt Engineer. Master the seamless integration of the LangChain Framework with Vector Database. 
 📘 **First Edition** by **Amit Sarkar**
