@@ -48,7 +48,7 @@ Why You May Encounter Variations in Output When Running the Same Code from this 
 As a result, when you run the same prompt multiple times, you're likely to receive variations in the generated text. This can be beneficial because it allows for diversity in responses and can help you explore different an-gles or ideas related to your query. However, it's essential to be aware of this variability, and all the codes dis-cussed in this book may give you slightly different output than the output you obtain when you run them. You can control the level of randomness or creativity by adjusting parameters like the "temperature" in the API re-quest, where higher values lead to more randomness, and lower values produce more deterministic outputs. 
 
 **OpenAI released version 1.0:** On November 8, 2023, OpenAI released version 1.0. However, most of the codes on GitHub (I will show you how to access vast repositories of code on GitHub in advanced lessons) are still running on old versions. For a beginner, migrating all the codes to the new version would be extremely hard. Please follow all my codes on this Github repository and I will update codes on a regular basis. Also please join our Discord  Channel  where I will give you all updates on regular basis.  Please visit https://www.chatgpthero.io/ for all the links provided in this book.  For more information about the OpenAI latest version please visit https://github.com/openai/openai-python/discussions/742.
-
+ 
 
 
 
