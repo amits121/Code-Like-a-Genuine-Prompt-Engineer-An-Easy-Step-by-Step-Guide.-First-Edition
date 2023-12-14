@@ -45,10 +45,13 @@ All of the code is organized into folders.
 
 **Sample Code:**
 ```python
-import openai
-# Replace 'YOUR_API_KEY' with your actual API key from OpenAI
-openai.api_key = 'your openai key'
+!pip install openai 
+from openai import OpenAI
 
+# Replace 'YOUR_API_KEY' with your actual API key from OpenAI
+
+client = OpenAI(
+    api_key = 'your api key', )
 # Chain of thought prompting
 chain_of_thought = (
     "Prompt 1: The shopkeeper starts with 50 apples.\n"
@@ -58,15 +61,13 @@ chain_of_thought = (
 )
 
 # Make the API call to GPT-3.5 to get a response
-response = openai.Completion.create(
-        engine="text-davinci-002",
+response = client.completions.create(
+        model="text-davinci-002",
         prompt=chain_of_thought,
         temperature=0.7,
         max_tokens=100,
         #stop=["\n"]
     )
 print(response.choices[0].text.strip())
-
-
 ## 🛠️ **Software and Hardware List**
 For executing the code, you can either use **Google Colab** or install **Anaconda** to run the codes on Jupyter notebooks.
